@@ -2,8 +2,8 @@
 Automated classification of organic facies using fuzzy logic.
 
 
-The code automates the classification of organic facies using fuzzy logic with TOC, HI, and OI data. 
+This code implements an automated organic facies classification system based on fuzzy logic, utilizing total organic carbon (TOC), hydrogen index (HI), and oxygen index (OI) as input parameters. 
 
-An example well dataset in .csv format is provided in the "in" folder for demonstration. 
+An example dataset, formatted as a comma-separated value (.csv) file, is provided in the "in" directory for illustrative purposes. 
 
-Each processing step is described in the Jupyter notebook (src.ipynb).
+A detailed explanation of the processing methodology is documented within the source Jupyter notebook (src).
